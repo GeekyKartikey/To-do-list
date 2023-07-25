@@ -8,7 +8,8 @@
   },
   "scripts": {
     "dev": "lite-server",
-    "test,start": "react-scripts start": "echo \"Error: no test specified\" && sexit 1"
+"test": "echo \"Error: no test specified\" && sexit 1",
+"start": "react-scripts start"
   },
   "author": "yd2473@columbia.edu",
   "license": "ISC",
