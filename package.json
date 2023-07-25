@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "lite-server",
 "test": "echo \"Error: no test specified\" && sexit 1",
-"start": "react-scripts start"
+"start": "run-scripts start"
   },
   "author": "yd2473@columbia.edu",
   "license": "ISC",
